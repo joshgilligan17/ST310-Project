@@ -16,6 +16,6 @@ test <- balancedSet[-split,]
 
 #Checking the imbalanced in test and train heart disease
 mean(test$HeartDisease)
-mean(test$HeartDisease)
+mean(train$HeartDisease)
 
 
