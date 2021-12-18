@@ -1,0 +1,6 @@
+ 
+ 
+ #'@param x0 vector of location, 
+ #'@param k int, number of neigbours
+ #'@param X matrix, predictors
+ #'@param Y vector, classes
